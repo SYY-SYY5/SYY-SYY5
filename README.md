@@ -135,7 +135,7 @@ private static String password = "yourpassword";
 
 ## 🌐 GitHub 项目地址
 
-👉 https://github.com/SYY-SYY5/First-Repository
+👉 https://github.com/SYY-SYY5/SYY-SYY5
 
 ------
 
